@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Runtime / calibration artifacts
+debug.png
+debug_monitor.png
+last_jump.png
+last_landing.png
+screen.png
+jumps.csv
+jump_calibration.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
